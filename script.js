@@ -48,3 +48,7 @@ function getInput(ticketClass) {
   const ticketQuantity = parseInt(ticketInput.value);
   return ticketQuantity;
 }
+
+
+
+
